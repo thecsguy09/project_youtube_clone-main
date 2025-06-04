@@ -53,13 +53,6 @@ The app can be deployed on platforms like **Vercel**, **Netlify**, or **Heroku**
 ```bash
 npm run build
 ```
-
-### Future Improvements
-
-* Add user authentication.
-* Enable video uploads.
-* Enhance the UI with dark and light mode toggles.
-
 ### Author
 
 This project was developed by **Kunal**, showcasing modern web development skills with React and Material-UI.
