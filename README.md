@@ -63,7 +63,3 @@ npm run build
 ### Author
 
 This project was developed by **Kunal**, showcasing modern web development skills with React and Material-UI.
-
----
-
-Let me know if you'd like further adjustments or additional sections!
